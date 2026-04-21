@@ -1,5 +1,4 @@
-![[Pasted image 20260317170028.png]]
-## Simplified Intuition: The "Ripples in a Pond"
+![](../Images/OpenLock.png)## Simplified Intuition: The "Ripples in a Pond"
 
 Imagine you drop a stone into a still pond. The water creates a circular ripple that expands outward.
 

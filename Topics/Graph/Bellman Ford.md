@@ -1,4 +1,4 @@
-![[Pasted image 20260317170332.png]]
+![](../Images/BellmanFord.png)
 
 The Bellman-Ford algorithm is essentially the "brute force" version of shortest-path discovery. While algorithms like Dijkstra are "greedy" (picking the best-looking option immediately), Bellman-Ford is "thorough"—it assumes that any edge could eventually lead to the best path.
 

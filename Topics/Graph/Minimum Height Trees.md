@@ -1,5 +1,5 @@
 ## Visualization
-![[Pasted image 20260316171849.png]]
+![](../Images/minHeightTree.png)
 ### Intuition
 
 Suppose there are beads connected by string. To form the minimum height, you would want to pickup the bead which lies at the center. The branches spread out more evenly and the distance to each node is minimized.

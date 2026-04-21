@@ -1,4 +1,4 @@
-![[Pasted image 20260318115442.png]]
+![](../Images/pathWithAlternateColor.png)
 ## Problem
 Each edge is red or blue in this graph, and there could be self-edges and parallel edges.
 Return an array `answer` of length `n`, where each `answer[x]` is the length of the shortest path from node `0` to node `x` such that the edge colors alternate along the path, or `-1` if such a path does not exist.

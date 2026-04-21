@@ -1,4 +1,4 @@
-![[Pasted image 20260316181732.png]]
+![](../Images/dsu.png)
 
 ### Intuition
 
