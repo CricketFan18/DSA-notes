@@ -56,11 +56,11 @@ Pure math algorithms operate on number properties. No dynamic data structures ar
     
 - **Segmented Sieve:** For generating primes in a specific range.
     
-- **Trial Division:** For single-integer primality testing.
+- **Trial Division:** For single-integer primality testing.(Optional)
     
 - **Euclidean Algorithm:** For finding the Greatest Common Divisor (GCD).
     
-- **Extended Euclidean Algorithm:** For finding coefficients of Bézout's identity.
+- **Extended Euclidean Algorithm:** For finding coefficients of Bézout's identity.(Optional)
     
 - **Matrix Exponentiation:** For solving linear recurrences in logarithmic time.
     
@@ -74,7 +74,7 @@ Pure math algorithms operate on number properties. No dynamic data structures ar
     
 - **Prime Factorization:** Using smallest prime factors (SPF).
     
-- **Pigeonhole Principle:** Theoretical logic for constraint limits.
+- **Pigeonhole Principle:** Theoretical logic for constraint limits.(Optional)
     
 
 #### 2. Array
@@ -95,9 +95,9 @@ Pure math algorithms operate on number properties. No dynamic data structures ar
     
 - **Three-Way Partitioning (Dutch National Flag Algorithm):** Sorting strict sets of 3 distinct values.
     
-- **In-Place Cycle Sort:** Sorting elements strictly in the range $1$ to $N$.
+- **In-Place Cycle Sort:** Sorting elements strictly in the range $1$ to $N$.(Advanced Topics)
     
-- **Line Sweep Algorithm:** Processing points/events along a 1D line iteratively.
+- **Line Sweep Algorithm:** Processing points/events along a 1D line iteratively.(Advanced Topics)
     
 
 #### 3. String
@@ -114,11 +114,11 @@ Pure math algorithms operate on number properties. No dynamic data structures ar
     
 - **Rabin-Karp Algorithm:** Pattern matching using Rolling Hashes.
     
-- **Z-Algorithm:** Linear time pattern matching constructing a Z-array.
+- **Z-Algorithm:** Linear time pattern matching constructing a Z-array.(Advanced Topics)
     
-- **Aho-Corasick Algorithm:** String searching across a finite state machine (dictionary matching).
+- **Aho-Corasick Algorithm:** String searching across a finite state machine (dictionary matching).(Advanced Topics)
     
-- **Suffix Array / Suffix Tree Construction:** Advanced lexicographical string sorting.
+- **Suffix Array / Suffix Tree Construction:** Advanced lexicographical string sorting.(Advanced Topics)
     
 
 #### 4. Bit Manipulation
@@ -146,9 +146,9 @@ Pure math algorithms operate on number properties. No dynamic data structures ar
     
 - **Binary Search on Rotated Arrays:** Halving arrays pivoted at an unknown index.
     
-- **Ternary Search:** Finding the minimum/maximum of a strictly unimodal function.
+- **Ternary Search:** Finding the minimum/maximum of a strictly unimodal function.(Advanced Topics)
     
-- **Fractional Cascading:** Speeding up binary searches across multiple sorted arrays.
+- **Fractional Cascading:** Speeding up binary searches across multiple sorted arrays.(Advanced Topics)
     
 
 #### 6. Sliding Window & Two Pointers
@@ -241,13 +241,13 @@ Pure math algorithms operate on number properties. No dynamic data structures ar
     
 - **Morris Traversal:** Inorder traversal achieving $O(1)$ space by threading temporary pointers.
     
-- **Binary Lifting (Lowest Common Ancestor):** Using $2^i$ jumps to find ancestors logarithmically.
+- **Binary Lifting (Lowest Common Ancestor):** Using $2^i$ jumps to find ancestors logarithmically.(Advanced Topics)
     
 - **Tree Diameter Algorithm:** Recursive depth maximization.
     
-- **Centroid Decomposition:** Breaking a tree into a centroid tree for path querying.
+- **Centroid Decomposition:** Breaking a tree into a centroid tree for path querying.(Advanced Topics)
     
-- **Heavy-Light Decomposition (HLD):** Breaking tree paths into contiguous segments for segment tree integration.
+- **Heavy-Light Decomposition (HLD):** Breaking tree paths into contiguous segments for segment tree integration.(Advanced Topics)
     
 
 #### 13. Graph
@@ -280,11 +280,11 @@ Pure math algorithms operate on number properties. No dynamic data structures ar
     
 - **Kosaraju's Algorithm:** Alternative, two-pass DFS for finding SCCs.
     
-- **Hierholzer's Algorithm:** Finding Eulerian Paths and Circuits.
+- **Hierholzer's Algorithm:** Finding Eulerian Paths and Circuits.(Advanced Topics)
     
--  **Hopcraft-Tarjan Algorithm:** Finding Bridges, and Articulation Points in a network.
+- **Hopcraft-Tarjan Algorithm:** Finding Bridges, and Articulation Points in a network.
     
-- **Hopcroft-Karp Algorithm:** Finding maximum matching in a bipartite graph.
+- **Hopcroft-Karp Algorithm:** Finding maximum matching in a bipartite graph.(Advanced Topics)
     
 
 #### 14. Greedy
@@ -326,9 +326,9 @@ Pure math algorithms operate on number properties. No dynamic data structures ar
     
 - **Digit DP:** Counting numbers in a range fulfilling arbitrary digit conditions.
     
-- **Knuth Optimization:** Speeding up specific Interval DP recurrences.
+- **Knuth Optimization:** Speeding up specific Interval DP recurrences.(Advanced Topics)
     
-- **Convex Hull Trick (CHT):** Optimizing DP intersecting linear functions.
+- **Convex Hull Trick (CHT):** Optimizing DP intersecting linear functions.(Advanced Topics)
     
 
 #### 16. Trie (Prefix Tree)
@@ -339,4 +339,4 @@ Pure math algorithms operate on number properties. No dynamic data structures ar
     
 - **Binary Trie:** Traversing bit structures to maximize/minimize XOR operations.
     
-- **Compressed Trie / Radix Tree:** Optimizing memory by merging single-child nodes.
+- **Compressed Trie / Radix Tree:** Optimizing memory by merging single-child nodes.(Advanced Topics)
